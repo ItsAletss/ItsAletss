@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🧑🏽‍💻 About Me
 
 I am a Software Engineering student passionate about building efficient, scalable and maintainable software solutions.
 
